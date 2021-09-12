@@ -1,7 +1,7 @@
 # Weather Analysis Dashboard
 
 ## Web visualization dashboard of city weather data
-https://github.com/NickP20/Web-Design-Challenge
+https://nickp20.github.io/Web-Design-Challenge/
 <br>
 ## Purpose of Project
 
